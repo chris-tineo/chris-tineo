@@ -25,7 +25,7 @@ Cloud/SRE focused on Azure, IaC, and CI/CD. Experienced in designing and operati
 ## Experience
 
 <details>
-<summary><strong>Willis Towers Watson (WTW)</strong> (Mar 2022 – Present) · <em>Site Reliability Engineer — Lima, Peru</em></summary>
+<summary><strong>Willis Towers Watson (WTW)</strong> (Mar 2022 – Present) · <em>Site Reliability Engineer — Remote</em></summary>
 
 - Ensured application availability and reliability; incident response and post‑mortems.
 - Applications monitoring and alerting.
@@ -36,7 +36,7 @@ Cloud/SRE focused on Azure, IaC, and CI/CD. Experienced in designing and operati
 </details>
 
 <details>
-<summary><strong>Equinox Games</strong> (May 2023 – Nov 2023) · <em>Freelance Cloud Solutions Architect</em></summary>
+<summary><strong>Equinox Games</strong> (May 2023 – Nov 2023) · <em>Freelance Cloud Solutions Architect — Remote</em></summary>
 
 - Architecture for game hosting on Azure, AWS, and GCP.
 - Terraform pipelines with GitHub Actions for IaC.
@@ -44,7 +44,7 @@ Cloud/SRE focused on Azure, IaC, and CI/CD. Experienced in designing and operati
 </details>
 
 <details>
-<summary><strong>Lumen Technologies LLC</strong> (Jan 2021 – Mar 2022) · <em>Cloud Solutions Architect</em></summary>
+<summary><strong>Lumen Technologies LLC</strong> (Jan 2021 – Mar 2022) · <em>Cloud Solutions Architect — Remote</em></summary>
 
 - On‑prem → Azure migration (120+ servers), security and governance.  
 - Backups, DR, and perimeter security with Palo Alto; L3 support leading 3 analysts.
@@ -52,21 +52,21 @@ Cloud/SRE focused on Azure, IaC, and CI/CD. Experienced in designing and operati
 </details>
 
 <details>
-<summary><strong>NTT DATA</strong> (Oct 2020 – Dec 2021) · <em>Cloud Computing Consultant</em></summary>
+<summary><strong>NTT DATA</strong> (Oct 2020 – Dec 2021) · <em>Cloud Computing Consultant — Remote</em></summary>
 
 - “Journey to Azure” for Credicorp Capital: IaC with Azure DevOps + Terraform (SCRUM).  
 - Used Azure Pipelines, Repos, and Artifacts; GHAS.  
 </details>
 
 <details>
-<summary><strong>G&S Gestión y Sistemas</strong> (Jan 2019 – Oct 2020) · <em>DevOps Engineer</em></summary>
+<summary><strong>G&S Gestión y Sistemas</strong> (Jan 2019 – Oct 2020) · <em>DevOps Engineer — Lima, Peru</em></summary>
 
 - Automated deployments on Azure/AWS with Terraform and ARM; Terraform/Ansible modules.  
 - Experience with Docker, Kubernetes, Jenkins, Bitbucket, HashiCorp Vault; client enablement/training.
 </details>
 
 <details>
-<summary><strong>ITG Solutions</strong> (Jan 2018 – Jan 2019) · <em>Infrastructure & Cloud Consultant</em></summary>
+<summary><strong>ITG Solutions</strong> (Jan 2018 – Jan 2019) · <em>Infrastructure & Cloud Consultant — Lima, Peru</em></summary>
 
 - Administration of Windows Server, O365, and SCCM.  
 - Consulting on AD DS/CS, DHCP, DNS, File Server, Azure AD, and Defender ATP.
