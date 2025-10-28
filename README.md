@@ -72,6 +72,11 @@ Cloud/SRE focused on Azure, IaC, and CI/CD. Experienced in designing and operati
 - Consulting on AD DS/CS, DHCP, DNS, File Server, Azure AD, and Defender ATP.
 </details>
 
+## Now / Learning
+- Databricks workloads and advanced setup via IaC.
+- Advanced Kubernetes Administration.
+- Advanced AWS/GCP/GitHub Administration.
+
 ---
 
 **Contact:** [christian.tineo.528@gmail.com](mailto:christian.tineo.528@gmail.com) · [LinkedIn](https://www.linkedin.com/in/christian-tineo-727102133/)
