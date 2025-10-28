@@ -72,6 +72,7 @@ Cloud/SRE focused on Azure, IaC, and CI/CD. Experienced in designing and operati
 - Consulting on AD DS/CS, DHCP, DNS, File Server, Azure AD, and Defender ATP.
 </details>
 
+
 ## Now / Learning
 - Databricks workloads and advanced setup via IaC.
 - Advanced Kubernetes Administration.
